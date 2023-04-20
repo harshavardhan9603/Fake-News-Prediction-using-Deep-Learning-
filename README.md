@@ -94,7 +94,7 @@ def stemming(content):
     stemmed_content = [stemmer.stem(word) for word in stemmed_content if not word in stopwords.words('english')] #4
     stemmed_content = ' '.join(stemmed_content) #5
     return stemmed_content #6
-    ```
+```
 Okay, so let’s go in depth and see what this function actually does. I have numbered each line from 1 to 6 so that you can easily distinguish between different lines of code and understand each line’s use.
 
 #1 First we use the re package and remove everything that is not a letter (lower or uppercase letters).
