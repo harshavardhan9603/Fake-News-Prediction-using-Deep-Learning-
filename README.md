@@ -1,4 +1,4 @@
-# Fake News Detection Using Logistic Regression 
+# Fake News Detection Using Deep Learning 
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/117622500/233439788-21be445d-01d5-41a7-8da2-cd4466b45b25.png)
 
